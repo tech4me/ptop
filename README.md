@@ -98,4 +98,4 @@ Coming from a C++ programming background, many of Rust's programming concepts we
 - Documentation is consistently available and standardized through the crate system. Every crate includes comprehensive documentation, eliminating the need to read source code to understand library usage.
 
 # Video Demo
-![video](video_demo.mp4)
+https://github.com/tech4me/ptop/blob/main/video_demo.mp4
